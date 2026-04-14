@@ -1,0 +1,93 @@
+{
+  "negative_prompt": "low quality, blurry, noisy, jpeg artifacts, watermark, signature, text, logo, frame, border, bad anatomy, deformed shapes, duplicate subject, cluttered composition, overexposed, oversaturated",
+  "styles": [
+    {
+      "theme": "amoled",
+      "caption": "AMOLED wallpaper. Deep blacks, quiet glow, built for the lock screen.",
+      "tags": "#Wallpaper #AMOLED #4KWallpaper",
+      "subjects": [
+        "a lone astronaut standing before a thin blue event horizon",
+        "a black glass koi fish with neon cyan rim light",
+        "a minimal eclipse above a dark ocean, silver moonlight"
+      ],
+      "style": "cinematic AMOLED-friendly wallpaper, deep black negative space, luminous edge lighting, crisp silhouette, high contrast, ultra sharp details, clean composition, no text, no logo"
+    },
+    {
+      "theme": "anime",
+      "caption": "Anime wallpaper drop. Clean lines, cinematic light, no clutter.",
+      "tags": "#AnimeWallpaper #Wallpaper #4K",
+      "subjects": [
+        "an anime girl in a rainlit neon alley holding a transparent umbrella",
+        "a samurai silhouette under a red moon in a quiet bamboo forest",
+        "a futuristic anime city seen from a rooftop at midnight"
+      ],
+      "style": "anime key visual wallpaper, expressive cinematic lighting, clean linework, sharp focus, atmospheric depth, elegant composition, no text, no watermark"
+    },
+    {
+      "theme": "sci-fi",
+      "caption": "Sci-fi wallpaper. Cold light, huge scale, clean frame.",
+      "tags": "#SciFiArt #Wallpaper #4KWallpaper",
+      "subjects": [
+        "a colossal ringworld rising above a black planet",
+        "a sleek starship crossing a dark nebula with teal navigation lights",
+        "an abandoned alien megastructure lit by a single white sunbeam"
+      ],
+      "style": "cinematic sci-fi wallpaper, vast scale, deep blacks, sharp hard-surface detail, subtle volumetric light, premium concept art, no text, no logo"
+    },
+    {
+      "theme": "minimal",
+      "caption": "Minimal wallpaper. Calm geometry, crisp contrast.",
+      "tags": "#MinimalWallpaper #Wallpaper #4K",
+      "subjects": [
+        "a single white paper crane floating in black space",
+        "one red circle reflected on a glossy black floor",
+        "a thin mountain ridge under a tiny crescent moon"
+      ],
+      "style": "minimal wallpaper, balanced negative space, restrained color palette, crisp edges, elegant composition, AMOLED-friendly blacks, no text, no watermark"
+    },
+    {
+      "theme": "space",
+      "caption": "Space wallpaper. Dark sky, clean glow, desktop-ready.",
+      "tags": "#SpaceArt #Wallpaper #4KWallpaper",
+      "subjects": [
+        "a black hole bending a field of tiny blue stars",
+        "a quiet moon base under Saturn's rings",
+        "a glowing comet crossing an empty black sky"
+      ],
+      "style": "cinematic space wallpaper, deep black background, realistic starlight, sharp celestial detail, subtle glow, clean 16:9 composition, no text, no logo"
+    },
+    {
+      "theme": "birds",
+      "caption": "Bird wallpaper. Wild color, clean sky, calm frame.",
+      "tags": "#BirdPhotography #Wallpaper #4KWallpaper",
+      "subjects": [
+        "a kingfisher diving through crystal water with electric blue wings",
+        "a snowy owl flying over a black pine forest under moonlight",
+        "a hummingbird hovering beside a glowing tropical flower"
+      ],
+      "style": "cinematic bird wallpaper, sharp feather detail, graceful motion, natural light, clean background, elegant composition, ultra crisp, no text, no watermark"
+    },
+    {
+      "theme": "glassy",
+      "caption": "Glassy wallpaper. Liquid shine, soft reflections, premium glow.",
+      "tags": "#Glassy #Wallpaper #4KWallpaper",
+      "subjects": [
+        "translucent glass petals floating over a black reflective surface",
+        "a liquid chrome wave bending neon light in a dark studio",
+        "frosted glass geometric shapes suspended in soft morning light"
+      ],
+      "style": "glassy aesthetic wallpaper, translucent materials, glossy reflections, refraction, soft highlights, premium product-render feel, clean composition, no text, no logo"
+    },
+    {
+      "theme": "supercars",
+      "caption": "Supercar wallpaper. Low stance, hard reflections, night drive energy.",
+      "tags": "#Supercar #CarWallpaper #4KWallpaper",
+      "subjects": [
+        "a matte black hypercar parked under rainlit neon city lights",
+        "a red supercar carving through a mountain pass at sunrise",
+        "a silver concept car in a dark studio with sharp rim lighting"
+      ],
+      "style": "cinematic supercar wallpaper, low angle, glossy reflections, sharp body lines, dramatic lighting, premium automotive photography, clean background, no text, no logo"
+    }
+  ]
+}
